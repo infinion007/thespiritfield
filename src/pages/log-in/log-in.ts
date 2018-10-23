@@ -27,6 +27,7 @@ export class LogInPage {
 
       this.username="";
       this.password="";
+      
 
   }
 
